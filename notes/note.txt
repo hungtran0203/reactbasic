@@ -1,0 +1,17 @@
+
+
+
+
+React Component
+  - data:
+      state
+      props
+      context
+  - behaviour: 
+      lifecycle
+
+
+React Component type:
+  createClass
+  class Component
+  functional Component
